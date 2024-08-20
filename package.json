@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "falcor-express": "^0.1.4",
+    "falcor-router": "^0.8.3"
+  }
+}
